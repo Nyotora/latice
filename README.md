@@ -1,4 +1,4 @@
-# Lactice
+# Latice
 
 ## Présentation
 
