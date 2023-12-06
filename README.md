@@ -43,3 +43,11 @@ Certaines de nos cinématiques ont été réalisées grâce à de la modélisati
 
 Nous avons décidé de mettre des musiques pour chaque thèmes, et notamment de faire jouer la première en même temps que la cinématique, ce qui nous a contraint à en modifier certaines pour qu’elles s’adaptent à la cinématique. Pour celà nous avons utilisé le logiciel open source Audacity. 
 
+
+## Imagerie
+![start](https://github.com/Nyotora/latice/assets/101416486/d256f49d-1fcb-46f5-bb90-7146c21d68e4)
+![select](https://github.com/Nyotora/latice/assets/101416486/e8f45e14-cc91-4a62-8746-27cacf13cb53)
+![pokemon](https://github.com/Nyotora/latice/assets/101416486/09df3ab3-52d7-492e-b58a-edf74cfb24cd)
+![op](https://github.com/Nyotora/latice/assets/101416486/9aa57218-f017-49d3-9c6f-b3925f6881c6)
+![zelda](https://github.com/Nyotora/latice/assets/101416486/dfde3778-d064-4c67-b3b6-2c4cbd553078)
+
